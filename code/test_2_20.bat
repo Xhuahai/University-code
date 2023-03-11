@@ -1,0 +1,1 @@
+@"D:\AhaCpp\resources\core\bin\ConsolePauser.exe" "D:\AhaCpp\resources\code\test_2_20.exe"
